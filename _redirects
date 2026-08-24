@@ -1,0 +1,6 @@
+# Old Wix URLs -> new pages (Netlify _redirects syntax, 301 permanent)
+/blank-1            /boats.html 301
+/blank-9            /boats.html 301
+/about-loroz-custom-boats /repair.html 301
+/financing-application /financing.html 301
+/contact            /contact.html 301
