@@ -60,7 +60,7 @@
       var body = encodeURIComponent(bodyLines.join("\n"));
 
       var mailto = document.createElement("a");
-      mailto.href = "mailto:info@lorozboats.com?subject=" + subject + "&body=" + body;
+      mailto.href = "mailto:info@LorozCustomBoats.onmicrosoft.com?subject=" + subject + "&body=" + body;
       mailto.style.display = "none";
       document.body.appendChild(mailto);
       mailto.click();
